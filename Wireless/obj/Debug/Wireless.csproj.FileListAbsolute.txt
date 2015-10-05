@@ -1,0 +1,27 @@
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\bin\Debug\Wireless.exe.config
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\bin\Debug\Wireless.exe
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\bin\Debug\Wireless.pdb
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.Properties.Resources.resources
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.exe
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.pdb
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.fmrWireless.resources
+C:\Users\Public\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\bin\Debug\Wireless.exe.config
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.exe
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.pdb
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\bin\Debug\Wireless.exe
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\bin\Debug\Wireless.pdb
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.fmrWireless.resources
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.Properties.Resources.resources
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.csproj.GenerateResource.Cache
+C:\Users\Christian\Documents\C# Projects\Wireless\Wireless\obj\Debug\Wireless.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\bin\Debug\Wireless.exe.config
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\obj\Debug\Wireless.exe
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\obj\Debug\Wireless.pdb
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\bin\Debug\Wireless.exe
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\bin\Debug\Wireless.pdb
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\obj\Debug\Wireless.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\obj\Debug\Wireless.fmrWireless.resources
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\obj\Debug\Wireless.Properties.Resources.resources
+C:\Users\Christian\Documents\Visual Studio 2013\Projects\Wireless\Wireless\obj\Debug\Wireless.csproj.GenerateResource.Cache

@@ -1,5 +1,0 @@
-C:\Users\Public\Documents\C# Projects\Wireless1\Wireless1\bin\Debug\Wireless1.exe.config
-C:\Users\Public\Documents\C# Projects\Wireless1\Wireless1\bin\Debug\Wireless1.exe
-C:\Users\Public\Documents\C# Projects\Wireless1\Wireless1\bin\Debug\Wireless1.pdb
-C:\Users\Public\Documents\C# Projects\Wireless1\Wireless1\obj\Debug\Wireless1.exe
-C:\Users\Public\Documents\C# Projects\Wireless1\Wireless1\obj\Debug\Wireless1.pdb

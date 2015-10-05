@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Wireless.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SSIDName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="PassWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+    <Setting Name="Mode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Allow</Value>
+    </Setting>
+    <Setting Name="NetWorkType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Infrastructure</Value>
+    </Setting>
+    <Setting Name="Permission" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Allow</Value>
+    </Setting>
+    <Setting Name="AddDelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Add</Value>
+    </Setting>
+    <Setting Name="KeyUsage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Persistent</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
