@@ -32,7 +32,6 @@ namespace Wireless
             InitializeComponent();
             SystemEvents.PowerModeChanged += OnPowerModeChanged;
         }
-
         private void OnPowerModeChanged(object sender, PowerModeChangedEventArgs e)
         {
             switch (e.Mode)
@@ -55,7 +54,6 @@ namespace Wireless
                     break;
             }
         }
-
         private void btnStop_Click(object sender, EventArgs e)
         {
             Process Stop = new Process
@@ -73,7 +71,6 @@ namespace Wireless
             MessageBox.Show(Stop.StandardOutput.ReadToEnd());
             Stop.WaitForExit();
         }
-
         private void btnStart_Click(object sender, EventArgs e)
         {
             Process Start = new Process
@@ -91,7 +88,6 @@ namespace Wireless
             MessageBox.Show(Start.StandardOutput.ReadToEnd());
             Start.WaitForExit();
         }
-
         private void btnInformation_Click(object sender, EventArgs e)
         {
             Process Interface = new Process
@@ -183,7 +179,6 @@ namespace Wireless
             Setting.WaitForExit();
 
         }
-
         private void btnSet_Click(object sender, EventArgs e)
         {
             if (SSID != ttbSSID.Text)
@@ -257,7 +252,7 @@ namespace Wireless
                     StartInfo =
                     {
                         FileName = "netsh",
-                        Arguments = "wlan set hostednetwork key=" + password + "keyUsage=" + keyusage,
+                        Arguments = "wlan set hostednetwork key=" + password + " keyUsage=" + keyusage,
                         UseShellExecute = false,
                         RedirectStandardOutput = true,
                         CreateNoWindow = true
@@ -271,7 +266,6 @@ namespace Wireless
                 Settings.Default.Save();
             }
         }
-
         private void fmrWireless_Load(object sender, EventArgs e)
         {
             SSID = Settings.Default.SSIDName;
@@ -304,7 +298,6 @@ namespace Wireless
             MessageBox.Show(WirelessNetworks.StandardOutput.ReadToEnd());
             WirelessNetworks.WaitForExit();
         }
-
         private void fmrWireless_FormClosed(object sender, FormClosedEventArgs e)
         {
             if (ttbSSID.Text == "")
@@ -378,7 +371,6 @@ namespace Wireless
                 Properties.Settings.Default.Save();
             }
         }
-
         private void btnFilter_Click(object sender, EventArgs e)
         {
             ssid = ttbSSIDName.Text;
@@ -402,7 +394,6 @@ namespace Wireless
             Settings.Default.NetWorkType = networktype;
             Settings.Default.Save();
         }
-
         private void btnShowHide_Click(object sender, EventArgs e)
         {
             if (btnShowHide.Text == "Show SSID")
@@ -442,7 +433,6 @@ namespace Wireless
                 ShowBlocked.WaitForExit();
             }
         }
-
         private void btnBlockedSSIDInfo_Click(object sender, EventArgs e)
         {
             Process Filter = new Process
@@ -474,7 +464,6 @@ namespace Wireless
             MessageBox.Show(WirelessNetworks.StandardOutput.ReadToEnd());
             WirelessNetworks.WaitForExit();
         }
-
         private void fmrWireless_Resize(object sender, EventArgs e)
         {
             bool cursorNotInBar = Screen.GetWorkingArea(this).Contains(Cursor.Position);
@@ -493,7 +482,6 @@ namespace Wireless
 
             }
         }
-
         private void ntITaskbar_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             Show();//shows the program on taskbar  
